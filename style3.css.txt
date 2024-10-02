@@ -1,0 +1,49 @@
+<html>
+<head> <title> 1st QTR: OUTPUTS </title> </head>
+<body background="lpp.png">
+<h1 style="font-family:Times New Roman; text-align:center; color:brown;"> <b> HANDS ON  </b> </h1> 
+<hr style="height:2px;border-width:0;color:white;background-color:brown;"> 
+<p style="font-family:Georgia; color:brown; font-size:15;"> 
+<style>
+        table {
+            width: 35%;
+            margin: 0 auto;
+            border-collapse: collapse;
+            border: 1px solid brown; 
+        }
+        th {
+            background-color: #FA8072; 
+            border: 1px solid brown;
+            padding: 8px;
+        }
+        td {
+            border: 1px solid brown;
+            padding: 8px;
+        }
+    </style>
+<table border="1" style="background-color: white;">
+  <tr>
+    <th>CODE</th>
+    <th>FINAL OUTPUT</th>
+  </tr>
+  <tr>
+    <td><img src="5730998c-887f-461a-8fbf-c60bbc725a1e.jpg" style="border: 5px solid brown; width:150; height:65; display: block; margin: 0 auto;"></td>
+    <td><img src="7ce08210-243f-46a0-a188-40c1dd584c3f.jpg" style="border: 5px solid brown; width:150; height:65; display: block; margin: 0 auto;"></td>
+  </tr>
+  <tr>
+    <td><img src="59125aaa-e258-4b95-97c2-fd0116bfab9e.jpg" style="border: 5px solid brown; width:150; height:65; display: block; margin: 0 auto;"></td>
+    <td><img src="a089ed7c-2327-406b-98d9-3681648c0eeb.jpg" style="border: 5px solid brown; width:150; height:65; display: block; margin: 0 auto;"></td>
+  </tr>
+  <tr>
+    <td><img src="c83de87a-6aa6-4f07-b3f5-a449e497a853.jpg" style="border: 5px solid brown; width:150; height:65; display: block; margin: 0 auto;"></td>
+    <td><img src="8de8730f-0380-428d-8025-2e3659be48c1.jpg" style="border: 5px solid brown; width:150; height:65; display: block; margin: 0 auto;"></td>
+  </tr>
+  <tr>
+    <td><img src="fe9ee4d8-8daa-49db-a3fa-c2d8d1325bc6.jpg" style="border: 5px solid brown; width:150; height:65; display: block; margin: 0 auto;"></td>
+    <td><img src="443351a3-4da3-4ff2-9615-5acbf941792a.jpg" style="border: 5px solid brown; width:150; height:65; display: block; margin: 0 auto;"></td>
+  </tr>
+</table>
+
+</p>
+</body>
+</html>
